@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://mis-labo-doc5.vercel.app"
 
 languageCode = "ja"
 DefaultContentLanguage = "ja"
